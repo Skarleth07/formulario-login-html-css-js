@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+    
+html {
+    margin: 0px;
+    background: #000c18;
+    color: #fff;
+    padding: 0;
+}
+ 
+body {
+    background: #0a0;
+}
+
+p{
+    text-align: center;
+    background: #ccc;
+    color: #000;
+}
+
+form{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+
+    margin: 0 auto;
+
+
+input;
+}
